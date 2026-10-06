@@ -1,11 +1,11 @@
 {
-  "version": "0.9.6",
-  "notes": "Kart kapanış animasyonları (Acil: patlama, Önemli: melek kanatları; Ayarlar'dan kapatılabilir); aynı alıcıya Acil beklemesinde kalan saniye.",
-  "pub_date": "2026-10-06T12:09:37.264Z",
+  "version": "0.9.7",
+  "notes": "Nesaj+ 0.9.7\n\n- F8 hızlı mesaj: herhangi bir programdayken F8'e basın, ekranın ortasında küçük bir pencere açılır. Ad yazıp ↑↓ ve Enter ile kişi ya da grubu seçin (ekip sahibi Duyuru'yu da görür), Alt+1…4 ile mod, Enter gönderir ve pencere kapanır; Esc ya da F8 kapatır. Ekranda kart varken F8 kartı odaklar: cevap klavyeyle yazılır.\n- Ayarlar → Hızlı mesaj kısayolu: hazır seçenekler (F8, F9, Pause, Ctrl+Alt+N, Ctrl+Shift+Space, Ctrl+Alt+Space) ya da \"Kendim belirleyeyim\" ile tuşa basarak seçim. Başka program tutuyorsa \"Bu kısayol kullanımda, başka seçin\" uyarısı.\n- Ayarlar → Hızlı cevaplarım: kartlardaki hızlı cevap düğmeleri kişiye özel (en fazla 6, her biri 25 karakter; ekle/düzenle/sil/sırala). Varsayılan: Tamam · Geliyorum · 5 dk · Meşgulüm.\n- Acil kartı kapanırken daha güçlü patlama: beyaz-turuncu flaş, kısa sarsıntı, daha çok kıvılcım ve duman (1 sn'den kısa); karartma kalkmış olsa da görünür.",
+  "pub_date": "2026-10-06T12:41:47.910Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQzhKZHFCcUUrZ1RSZzBnc0FkRFNVSGtaWnAwL2RhSE5SaE9sSTl0TlJ6UHFUbW4wcXpKRGdIVm9GZHB1MlZpVTkzSFFvRE43M2gvbFRVNXh0WXRwMHBTWGNtVjdYTVFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjg4NTczCWZpbGU6TmVzYWorXzAuOS42X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjkuNgoxeTdEaFVoUGk1U2FhM0VsM2tMZFF0ZFA3UDBIRmt2ZlRKWlZTd2Q5aXpqYXlicmY5VERucjNNVzc0QlRoN3dCZ2J4Z083TW0xa3NLVG5IZVR3MUFDdz09Cg==",
-      "url": "https://github.com/altintv-creator/nesaj-releases/releases/download/v0.9.6/Nesaj-0.9.6-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQzhKZHFCcUUrZ2JiQm9PVlM4VTF1TkhzTEIvUjlhdjExL04zVStUb2d5bDVpamRnRGVRVW9XZklObFJlM2ordVJmSjFNQWRueUtnSEFVK2xCMURuanJ0Sm1zblYvMFE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjkwNTAzCWZpbGU6TmVzYWorXzAuOS43X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjkuNwoxUDdYeFJQVXhuZlZqNDhMRXpjZkVxUHRqTk9kZ25ONjZvRjQrRHQvOTljb04yTmYwWWUrQjN4Vi9Sam1UTExibVVJSEJTZ3JIaHRkZHQxVmtFa3hCZz09Cg==",
+      "url": "https://github.com/altintv-creator/nesaj-releases/releases/download/v0.9.7/Nesaj-0.9.7-setup.exe"
     }
   }
 }
