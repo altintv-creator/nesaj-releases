@@ -1,0 +1,11 @@
+{
+  "version": "0.9.0",
+  "notes": "Ilk deneme yayini: ekip, Normal/Onemli/Woyn mesajlar, otomatik guncelleme",
+  "pub_date": "2026-10-06T09:20:14.449Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQzhKZHFCcUUrZ2J3dmY1RnRhN3phbWlRR2UycnIwZ3VIRzJ2QklhR08xUWRMR0s5U1dGUmFSZzR1VllNSzZncXM1TXY1UUd3WUlFVTFXVmw1c1FITUZnZ2diMWVEa2d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjc4NDEwCWZpbGU6TmVzYWorXzAuOS4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjkuMApoc3ZvRjRNYWo4TSt6Y2YveWEzMVVtNnpDOUNQUDdpcXdTcHpoTHBxbSs1UU1yTWRlL1RwN0FZTllFUzROYUZPYkZQM3J4ZUYvZHdmL1VMMlhzYzFBQT09Cg==",
+      "url": "https://github.com/altintv-creator/nesaj-releases/releases/download/v0.9.0/Nesaj-0.9.0-setup.exe"
+    }
+  }
+}
