@@ -1,11 +1,11 @@
 {
-  "version": "0.9.7",
-  "notes": "Nesaj+ 0.9.7\n\n- F8 hızlı mesaj: herhangi bir programdayken F8'e basın, ekranın ortasında küçük bir pencere açılır. Ad yazıp ↑↓ ve Enter ile kişi ya da grubu seçin (ekip sahibi Duyuru'yu da görür), Alt+1…4 ile mod, Enter gönderir ve pencere kapanır; Esc ya da F8 kapatır. Ekranda kart varken F8 kartı odaklar: cevap klavyeyle yazılır.\n- Ayarlar → Hızlı mesaj kısayolu: hazır seçenekler (F8, F9, Pause, Ctrl+Alt+N, Ctrl+Shift+Space, Ctrl+Alt+Space) ya da \"Kendim belirleyeyim\" ile tuşa basarak seçim. Başka program tutuyorsa \"Bu kısayol kullanımda, başka seçin\" uyarısı.\n- Ayarlar → Hızlı cevaplarım: kartlardaki hızlı cevap düğmeleri kişiye özel (en fazla 6, her biri 25 karakter; ekle/düzenle/sil/sırala). Varsayılan: Tamam · Geliyorum · 5 dk · Meşgulüm.\n- Acil kartı kapanırken daha güçlü patlama: beyaz-turuncu flaş, kısa sarsıntı, daha çok kıvılcım ve duman (1 sn'den kısa); karartma kalkmış olsa da görünür.",
-  "pub_date": "2026-10-06T12:41:47.910Z",
+  "version": "0.9.8",
+  "notes": "Nesaj+ 0.9.8\n\n- Acil kartında \"Okudum\": patlama artık karartma kendiliğinden kalkmış olsa da görünüyor (0.9.7'de karartma kalkınca patlama hiç çıkmıyordu).\n- Patlama yaklaşık 2,5 kat büyüdü: daha hızlı ve iri kıvılcımlar, daha geniş flaş ve duman.",
+  "pub_date": "2026-10-06T13:47:59.289Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQzhKZHFCcUUrZ2JiQm9PVlM4VTF1TkhzTEIvUjlhdjExL04zVStUb2d5bDVpamRnRGVRVW9XZklObFJlM2ordVJmSjFNQWRueUtnSEFVK2xCMURuanJ0Sm1zblYvMFE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjkwNTAzCWZpbGU6TmVzYWorXzAuOS43X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjkuNwoxUDdYeFJQVXhuZlZqNDhMRXpjZkVxUHRqTk9kZ25ONjZvRjQrRHQvOTljb04yTmYwWWUrQjN4Vi9Sam1UTExibVVJSEJTZ3JIaHRkZHQxVmtFa3hCZz09Cg==",
-      "url": "https://github.com/altintv-creator/nesaj-releases/releases/download/v0.9.7/Nesaj-0.9.7-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQzhKZHFCcUUrZ2EyOGdJZE5uaXNWalJ0TktyY1BZQTY5bmJoc0RUaktROHppNEhRcTMrT3BST2M2UXFzQUgxUmw5a2l2ZzhOcHcrYXRWN3VpWXVEalZWTS85ZzVZU3dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjk0NDc0CWZpbGU6TmVzYWorXzAuOS44X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjkuOAoyMmtuczNDcGdJa3VvWUVEblpiZkdlQ3grWm1VNXBhV1g5NE9DUllraHQvVWUrMFliNEV0OVYxUnJNcWpOVmdHdjdmekhxSmNNdmNTQnlWYUZsUlNBZz09Cg==",
+      "url": "https://github.com/altintv-creator/nesaj-releases/releases/download/v0.9.8/Nesaj-0.9.8-setup.exe"
     }
   }
 }
