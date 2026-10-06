@@ -1,11 +1,11 @@
 {
-  "version": "0.9.0",
-  "notes": "Ilk deneme yayini: ekip, Normal/Onemli/Woyn mesajlar, otomatik guncelleme",
-  "pub_date": "2026-10-06T09:20:14.449Z",
+  "version": "0.9.1",
+  "notes": "Deneme guncellemesi: 0.9.0 -> 0.9.1 akisinin sinanmasi",
+  "pub_date": "2026-10-06T09:22:38.555Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQzhKZHFCcUUrZ2J3dmY1RnRhN3phbWlRR2UycnIwZ3VIRzJ2QklhR08xUWRMR0s5U1dGUmFSZzR1VllNSzZncXM1TXY1UUd3WUlFVTFXVmw1c1FITUZnZ2diMWVEa2d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjc4NDEwCWZpbGU6TmVzYWorXzAuOS4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjkuMApoc3ZvRjRNYWo4TSt6Y2YveWEzMVVtNnpDOUNQUDdpcXdTcHpoTHBxbSs1UU1yTWRlL1RwN0FZTllFUzROYUZPYkZQM3J4ZUYvZHdmL1VMMlhzYzFBQT09Cg==",
-      "url": "https://github.com/altintv-creator/nesaj-releases/releases/download/v0.9.0/Nesaj-0.9.0-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQzhKZHFCcUUrZ1hwSng0a0hDdmQrdG9YQ2pwR2J6RWZrcFFlZ3Exb0NhVkgrWjVTdWJlaGV6Ni90cTRBcGQ3NE5oVGtCbWVNWUU5TFZHSVFnS3ZPZGlPaDdidGJKYXdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjc4NTU0CWZpbGU6TmVzYWorXzAuOS4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjkuMQo3WmFER2xWYlpDN21FcFlNWXVhUTB0Q1Q1WHh0WWg0ZUFMK1N0Mm42emdESnEvWS85UDlIWUNiZks3MTVFY2FYQWU2Q2p5WXRxeU1oUjBJaWNRMk1Edz09Cg==",
+      "url": "https://github.com/altintv-creator/nesaj-releases/releases/download/v0.9.1/Nesaj-0.9.1-setup.exe"
     }
   }
 }
