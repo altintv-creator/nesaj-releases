@@ -1,11 +1,11 @@
 {
-  "version": "0.9.4",
-  "notes": "Yeni ikon ve lacivert + şampanya altın tema; simgeli mod seçici (Alt+1…4, kalıcı mod, varsayılan Önemli); pencere öndeyken bildirim/kart kuralları; güncelleme sonrası pencere açık gelir; gün ayraçları ve cila.",
-  "pub_date": "2026-10-06T11:02:49.876Z",
+  "version": "0.9.5",
+  "notes": "Ayarlar paneli (ad ve avatar değiştirme, tema, davet kodu, güncelleme denetimi); kişi avatarları; Duyuru kanalı yalnızca ekip sahibinde; aynı alıcıya Acil 10 saniyede bir; güncelleme sonrası pencere açık gelir.",
+  "pub_date": "2026-10-06T11:36:02.686Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQzhKZHFCcUUrZ2NSN3ZlTGQxWlQ3V2l3RGhPTzRaQmlILzhVK3NERjgvOFFqYy8yVTFiWTI1THpiZjZ3dEVEVWVka2VLUmxvR1kzZUFOMHlvUjB2Ri9JK3ZEUjVlVndZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjg0NTY1CWZpbGU6TmVzYWorXzAuOS40X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjkuNAphdk5PeFNhcXhycWlvbmpvMlZsSHovTVBzemF3MFFRLzAvNlZZSzRZWGtnYk9jYTBlNUE3eGovTHBBckQ5NHlqUXpVck1MeXhsLzJTL1ZZd0FwMTFDZz09Cg==",
-      "url": "https://github.com/altintv-creator/nesaj-releases/releases/download/v0.9.4/Nesaj-0.9.4-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQzhKZHFCcUUrZ1JNSTNNV043NytSODVjLzZRcUNIOWRzWEF1emVkUVlFMCsrVjdJdUhMQktvQ1pjV1RBMHBKVldjLzE0ZTV1cHpmSHRmT3NXelIwM20yaC9QWFdsV3dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjg2NTU4CWZpbGU6TmVzYWorXzAuOS41X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjkuNQpsZktUYUVCQVhVM3YvRSt2MXFMR3dwNGF5UzQzZWVZN2pkTURaTDh5SUhNbzNwVnRkMlU3Vm5FcmxKYmlUM2pDNWgrbEJJdjBSWjZueHdvL2toRWNDZz09Cg==",
+      "url": "https://github.com/altintv-creator/nesaj-releases/releases/download/v0.9.5/Nesaj-0.9.5-setup.exe"
     }
   }
 }
