@@ -1,11 +1,11 @@
 {
-  "version": "0.9.5",
-  "notes": "Ayarlar paneli (ad ve avatar değiştirme, tema, davet kodu, güncelleme denetimi); kişi avatarları; Duyuru kanalı yalnızca ekip sahibinde; aynı alıcıya Acil 10 saniyede bir; güncelleme sonrası pencere açık gelir.",
-  "pub_date": "2026-10-06T11:36:02.686Z",
+  "version": "0.9.6",
+  "notes": "Kart kapanış animasyonları (Acil: patlama, Önemli: melek kanatları; Ayarlar'dan kapatılabilir); aynı alıcıya Acil beklemesinde kalan saniye.",
+  "pub_date": "2026-10-06T12:09:37.264Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQzhKZHFCcUUrZ1JNSTNNV043NytSODVjLzZRcUNIOWRzWEF1emVkUVlFMCsrVjdJdUhMQktvQ1pjV1RBMHBKVldjLzE0ZTV1cHpmSHRmT3NXelIwM20yaC9QWFdsV3dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjg2NTU4CWZpbGU6TmVzYWorXzAuOS41X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjkuNQpsZktUYUVCQVhVM3YvRSt2MXFMR3dwNGF5UzQzZWVZN2pkTURaTDh5SUhNbzNwVnRkMlU3Vm5FcmxKYmlUM2pDNWgrbEJJdjBSWjZueHdvL2toRWNDZz09Cg==",
-      "url": "https://github.com/altintv-creator/nesaj-releases/releases/download/v0.9.5/Nesaj-0.9.5-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQzhKZHFCcUUrZ1RSZzBnc0FkRFNVSGtaWnAwL2RhSE5SaE9sSTl0TlJ6UHFUbW4wcXpKRGdIVm9GZHB1MlZpVTkzSFFvRE43M2gvbFRVNXh0WXRwMHBTWGNtVjdYTVFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjg4NTczCWZpbGU6TmVzYWorXzAuOS42X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjkuNgoxeTdEaFVoUGk1U2FhM0VsM2tMZFF0ZFA3UDBIRmt2ZlRKWlZTd2Q5aXpqYXlicmY5VERucjNNVzc0QlRoN3dCZ2J4Z083TW0xa3NLVG5IZVR3MUFDdz09Cg==",
+      "url": "https://github.com/altintv-creator/nesaj-releases/releases/download/v0.9.6/Nesaj-0.9.6-setup.exe"
     }
   }
 }
