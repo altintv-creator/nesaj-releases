@@ -1,11 +1,11 @@
 {
-  "version": "0.9.8",
-  "notes": "Nesaj+ 0.9.8\n\n- Acil kartında \"Okudum\": patlama artık karartma kendiliğinden kalkmış olsa da görünüyor (0.9.7'de karartma kalkınca patlama hiç çıkmıyordu).\n- Patlama yaklaşık 2,5 kat büyüdü: daha hızlı ve iri kıvılcımlar, daha geniş flaş ve duman.",
-  "pub_date": "2026-10-06T13:47:59.289Z",
+  "version": "0.9.9",
+  "notes": "Nesaj+ 0.9.9\n\n- Yüzen N+ düğmesi: ekranın üst kenarında küçük, yarı saydam bir N+ (üzerine gelince tam görünür). Tıklayınca hızlı mesaj penceresi açılır — yönetici olarak çalışan bir program (ör. AltınBarkod) öndeyken F8 çalışmasa da bu düğme çalışır. Sağ tık: Nesaj+ ekranını aç / düğmeyi gizle. Üst kenar boyunca sürüklenir, yeri hatırlanır. Okunmamış mesaj varsa altın nokta. Tam ekran uygulama ve sunumda kendiliğinden gizlenir. Ayarlar → Yüzen düğme: Açık/Kapalı.",
+  "pub_date": "2026-10-06T14:25:52.871Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQzhKZHFCcUUrZ2EyOGdJZE5uaXNWalJ0TktyY1BZQTY5bmJoc0RUaktROHppNEhRcTMrT3BST2M2UXFzQUgxUmw5a2l2ZzhOcHcrYXRWN3VpWXVEalZWTS85ZzVZU3dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjk0NDc0CWZpbGU6TmVzYWorXzAuOS44X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjkuOAoyMmtuczNDcGdJa3VvWUVEblpiZkdlQ3grWm1VNXBhV1g5NE9DUllraHQvVWUrMFliNEV0OVYxUnJNcWpOVmdHdjdmekhxSmNNdmNTQnlWYUZsUlNBZz09Cg==",
-      "url": "https://github.com/altintv-creator/nesaj-releases/releases/download/v0.9.8/Nesaj-0.9.8-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQzhKZHFCcUUrZ1RUZGxCdkkrRFRTSFFhNzNPaG44M0UzZ3ljKzU0WjFSK1ZaMC9UNXp2SnF1RENyVXVMcWUzWDBuNlI0MFM0c05zam9zQVdCMEdyemxOL3R2RkRBY1FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjk2NzQ4CWZpbGU6TmVzYWorXzAuOS45X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjkuOQpTWW5BVDNZb0xyL09CeTV6TEMrdHJ4dVVxdlNETEw5azRGbzBjN1NDTngxRk45Nm5BakhyVnA1LzFPckF4VkF3VGgvbGdidmVmb3M5MldENlZSc0dCdz09Cg==",
+      "url": "https://github.com/altintv-creator/nesaj-releases/releases/download/v0.9.9/Nesaj-0.9.9-setup.exe"
     }
   }
 }
