@@ -1,11 +1,41 @@
 {
-  "version": "0.9.9",
-  "notes": "Nesaj+ 0.9.9\n\n- Yüzen N+ düğmesi: ekranın üst kenarında küçük, yarı saydam bir N+ (üzerine gelince tam görünür). Tıklayınca hızlı mesaj penceresi açılır — yönetici olarak çalışan bir program (ör. AltınBarkod) öndeyken F8 çalışmasa da bu düğme çalışır. Sağ tık: Nesaj+ ekranını aç / düğmeyi gizle. Üst kenar boyunca sürüklenir, yeri hatırlanır. Okunmamış mesaj varsa altın nokta. Tam ekran uygulama ve sunumda kendiliğinden gizlenir. Ayarlar → Yüzen düğme: Açık/Kapalı.",
-  "pub_date": "2026-10-06T14:25:52.871Z",
+  "version": "0.9.10",
+  "notes": "Cevaplar artık sohbette · Grupta kim ne yaptı, herkes görür · Son konuşulan en üstte",
+  "whatsNew": {
+    "version": "0.9.10",
+    "items": [
+      {
+        "icon": "💬",
+        "title": "Cevaplar artık sohbette",
+        "text": "Karttan ya da sohbetten verdiğiniz cevap, alıntısıyla ayrı bir balon olur; alıntıya tıklayınca asıl mesaja gidersiniz."
+      },
+      {
+        "icon": "👥",
+        "title": "Grupta kim ne yaptı, herkes görür",
+        "text": "Her grup mesajının altında üye üye durum: iletildi, gördü, kapattı ya da verilen cevap."
+      },
+      {
+        "icon": "🔝",
+        "title": "Son konuşulan en üstte",
+        "text": "Konuşma listesi son gelen ya da giden mesaja göre sıralanır."
+      },
+      {
+        "icon": "🔔",
+        "title": "Cevaplar sakin gelir",
+        "text": "Cevap yazana küçük bildirimle gider; grubun geri kalanı yalnızca sohbette görür, duyuru cevabı yalnızca ekip sahibine."
+      },
+      {
+        "icon": "✨",
+        "title": "Daha temiz kapanış",
+        "text": "Önemli kartı artık tek ve pürüzsüz şekilde kaybolur; güncelleme şeridi de sadeleşti."
+      }
+    ]
+  },
+  "pub_date": "2026-10-07T13:11:07.043Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQzhKZHFCcUUrZ1RUZGxCdkkrRFRTSFFhNzNPaG44M0UzZ3ljKzU0WjFSK1ZaMC9UNXp2SnF1RENyVXVMcWUzWDBuNlI0MFM0c05zam9zQVdCMEdyemxOL3R2RkRBY1FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjk2NzQ4CWZpbGU6TmVzYWorXzAuOS45X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjkuOQpTWW5BVDNZb0xyL09CeTV6TEMrdHJ4dVVxdlNETEw5azRGbzBjN1NDTngxRk45Nm5BakhyVnA1LzFPckF4VkF3VGgvbGdidmVmb3M5MldENlZSc0dCdz09Cg==",
-      "url": "https://github.com/altintv-creator/nesaj-releases/releases/download/v0.9.9/Nesaj-0.9.9-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQzhKZHFCcUUrZ2VxRS93bXFUTUliQnJxWnRaNmNDa2hEWCs2Y3Y2Uk52ZFhIakV5Q0JxYStNTWhXcUkzUVVsRjJiY3hXUThSbW5Sdm8zYnFyRDZETXFYbTRLSkJqekEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMzc4NjYxCWZpbGU6TmVzYWorXzAuOS4xMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC45LjEwCmRlL2E4Z2RYRk50TUUxVlBkUnplUGpzTmU2OW45ZVVpWks0S1RHbVZpNnV5bDBzdjBXNENOV2ZtYUhmSWIvRyt4M2c2NEM4cFpyZFhHQldoLzdSd0FBPT0K",
+      "url": "https://github.com/altintv-creator/nesaj-releases/releases/download/v0.9.10/Nesaj-0.9.10-setup.exe"
     }
   }
 }
