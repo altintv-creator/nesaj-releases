@@ -1,31 +1,41 @@
 {
-  "version": "0.9.12",
-  "notes": "Yüzen düğmede beyaz kutu yok · Hızlı mesaj temiz açılıp kapanır · Kartlar için aynı düzeltme",
+  "version": "1.0.0",
+  "notes": "Nesaj+ 1.0 hazır · Hızlı mesajda okunmamışlar · Okunmamış sayısı her yerde",
   "whatsNew": {
-    "version": "0.9.12",
+    "version": "1.0.0",
     "items": [
       {
-        "icon": "✨",
-        "title": "Yüzen düğmede beyaz kutu yok",
-        "text": "N düğmesinin arkasındaki ve yanındaki beyaz dikdörtgen ile gölge kaldırıldı; ekranda yalnızca yuvarlak köşeli N görünür. Üzerine gelince belirginleşme ve okunmamış noktası aynen duruyor."
+        "icon": "🎉",
+        "title": "Nesaj+ 1.0 hazır",
+        "text": "Deneme dönemi bitti; bu ilk resmi sürüm. Katkı veren herkese teşekkürler. Güncellemeler eskisi gibi kendiliğinden gelir."
       },
       {
         "icon": "⚡",
-        "title": "Hızlı mesaj temiz açılıp kapanır",
-        "text": "F8 penceresi açılırken ve kapanırken Windows'un arkasına çizdiği köşeli kutu ve solma artık yok; pencere anında gelir ve gider."
+        "title": "Hızlı mesajda okunmamışlar",
+        "text": "F8 ya da yüzen N ile açılan pencerede okunmamış mesajlar en üstte; tıklayınca küçük sohbet açılır, hızlı cevapla yanıtlanır. Başlıktaki düğme Nesaj+'ı açar."
       },
       {
-        "icon": "🪟",
-        "title": "Kartlar için aynı düzeltme",
-        "text": "Önemli ve Acil kartları da aynı ortak düzeltmeyi kullanıyor: Windows'un kenarlığı, köşe yuvarlaması ve geçiş animasyonu kapalı."
+        "icon": "🔢",
+        "title": "Okunmamış sayısı her yerde",
+        "text": "Görev çubuğundaki ve tepsideki Nesaj+ simgesinde kırmızı rozet (1–9, sonra 9+); okuyunca kalkar."
+      },
+      {
+        "icon": "💬",
+        "title": "Cevaplar sohbette, grupta herkes görür",
+        "text": "Cevaplar alıntısıyla ayrı mesaj olur; grup mesajlarının altında kim gördü, kim kapattı, kim ne cevapladı görünür."
+      },
+      {
+        "icon": "✨",
+        "title": "Temiz ekran",
+        "text": "Yüzen N her yere ve diğer monitöre taşınır; arkasında ya da üstünde kutu ve yazı kalmadı. Grup ayarları dişlinin arkasında."
       }
     ]
   },
-  "pub_date": "2026-10-13T06:51:37.276Z",
+  "pub_date": "2026-10-13T07:15:06.670Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQzhKZHFCcUUrZ1cwWExFTTZPWlo0MWNDby9zakwvKzZRN0VUcWFwU0FMa3lGN1FuVDNNbXJrMGhLbkkxdTJBQU01WWtDcW1URy9ieWw5aDBiU2dFSkE5UWVZMUhDeXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxODc0MjkxCWZpbGU6TmVzYWorXzAuOS4xMl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC45LjEyCkkySC9Ha1dqVEdKQmUwL0g1dWRoakhRdUdXRzFLa1g0bUZZNzVyVWEwT3dOdXgrcHpKazVQMko5NkN4NGdSZmo5UUYzTENjMDZvdEZrcG5ISDVmTENnPT0K",
-      "url": "https://github.com/altintv-creator/nesaj-releases/releases/download/v0.9.12/Nesaj-0.9.12-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQzhKZHFCcUUrZ1dwdkwyeFZmQ3JpR01PLzFPaTVRUXhxSmlRWkpZM29mVDNCMHE5SkdQQVBaYmZnQWU3a1VPdWZtcHdPZnBlQjRhUWlScTNtalFHeXJWdCtsdXpYU3dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxODc1NzAwCWZpbGU6TmVzYWorXzEuMC4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoxLjAuMApnUjNZMGV6bUc1TUU5TitUMlJPc1ZjUkdBU0xpeEIrUTd1ckNnNnFyZUw2VUJUMlNrak02WFQ4cVV1bnJqQW5oNHBxRG9xZ2pvaFI2S3RocE1zN0dEZz09Cg==",
+      "url": "https://github.com/altintv-creator/nesaj-releases/releases/download/v1.0.0/Nesaj-1.0.0-setup.exe"
     }
   }
 }
