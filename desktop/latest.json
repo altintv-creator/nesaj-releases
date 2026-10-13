@@ -1,41 +1,31 @@
 {
-  "version": "0.9.11",
-  "notes": "Okunmamış sayısı görev çubuğunda ve tepside · Hızlı mesajda okunmamışlar · Hızlı mesajdan Nesaj+'a geçiş",
+  "version": "0.9.12",
+  "notes": "Yüzen düğmede beyaz kutu yok · Hızlı mesaj temiz açılıp kapanır · Kartlar için aynı düzeltme",
   "whatsNew": {
-    "version": "0.9.11",
+    "version": "0.9.12",
     "items": [
       {
-        "icon": "🔢",
-        "title": "Okunmamış sayısı görev çubuğunda ve tepside",
-        "text": "Toplam okunmamış mesaj sayısı Nesaj+ simgesinin üstünde kırmızı rozet olarak görünür (1–9, sonra 9+); okuyunca kalkar."
+        "icon": "✨",
+        "title": "Yüzen düğmede beyaz kutu yok",
+        "text": "N düğmesinin arkasındaki ve yanındaki beyaz dikdörtgen ile gölge kaldırıldı; ekranda yalnızca yuvarlak köşeli N görünür. Üzerine gelince belirginleşme ve okunmamış noktası aynen duruyor."
       },
       {
         "icon": "⚡",
-        "title": "Hızlı mesajda okunmamışlar",
-        "text": "Kişi ve grup listesinde okunmamış sayısı; okunmamışı olanlar en üstte. Tıklayınca mesajlar küçük bir sohbet olarak açılır, hızlı cevap düğmeleri ve cevap kutusuyla."
+        "title": "Hızlı mesaj temiz açılıp kapanır",
+        "text": "F8 penceresi açılırken ve kapanırken Windows'un arkasına çizdiği köşeli kutu ve solma artık yok; pencere anında gelir ve gider."
       },
       {
-        "icon": "↗️",
-        "title": "Hızlı mesajdan Nesaj+'a geçiş",
-        "text": "Başlıktaki düğme hızlı mesajı kapatıp Nesaj+ penceresini açar; seçili kişi ya da grup orada açık gelir."
-      },
-      {
-        "icon": "🧲",
-        "title": "Yüzen düğme her yere",
-        "text": "N düğmesi artık ekranın her yerine, başka monitöre de sürüklenebilir; yeri hatırlanır, ekran dışına taşmaz."
-      },
-      {
-        "icon": "⚙️",
-        "title": "Grup paneli dişlinin arkasında",
-        "text": "Üyeler, üye ekleme, ad değiştirme ve silme artık grup adının yanındaki dişliden açılır; sohbet alanı tamamen mesajlara kaldı. Bekleyen katılma isteği varsa dişlide sayı."
+        "icon": "🪟",
+        "title": "Kartlar için aynı düzeltme",
+        "text": "Önemli ve Acil kartları da aynı ortak düzeltmeyi kullanıyor: Windows'un kenarlığı, köşe yuvarlaması ve geçiş animasyonu kapalı."
       }
     ]
   },
-  "pub_date": "2026-10-13T06:18:56.807Z",
+  "pub_date": "2026-10-13T06:51:37.276Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQzhKZHFCcUUrZ1JNeWUyQlRmWnRkVzg0UThqdlFoenRpOVhOdERqalZPdk80VHFFWE9xaXdIbGVXM2pDSUpqYUJvWi85ckt1QW9ETVpzR3EwUDhKVFZwV0pURVVkYlFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxODcyMzMwCWZpbGU6TmVzYWorXzAuOS4xMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC45LjExCjA5QjhhdHVhYm5rWjM4Ymc0ZmxwM2RnQTdtZ29xWWZWdzJPaCt2My9mdzVkN3RWSHBXNEZvRzNQMm9xSzJhRlFhQnNtMUdqQlkwUFVIazZQVlRrVkRRPT0K",
-      "url": "https://github.com/altintv-creator/nesaj-releases/releases/download/v0.9.11/Nesaj-0.9.11-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQzhKZHFCcUUrZ1cwWExFTTZPWlo0MWNDby9zakwvKzZRN0VUcWFwU0FMa3lGN1FuVDNNbXJrMGhLbkkxdTJBQU01WWtDcW1URy9ieWw5aDBiU2dFSkE5UWVZMUhDeXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxODc0MjkxCWZpbGU6TmVzYWorXzAuOS4xMl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC45LjEyCkkySC9Ha1dqVEdKQmUwL0g1dWRoakhRdUdXRzFLa1g0bUZZNzVyVWEwT3dOdXgrcHpKazVQMko5NkN4NGdSZmo5UUYzTENjMDZvdEZrcG5ISDVmTENnPT0K",
+      "url": "https://github.com/altintv-creator/nesaj-releases/releases/download/v0.9.12/Nesaj-0.9.12-setup.exe"
     }
   }
 }
