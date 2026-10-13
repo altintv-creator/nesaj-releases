@@ -1,41 +1,41 @@
 {
-  "version": "0.9.10",
-  "notes": "Cevaplar artık sohbette · Grupta kim ne yaptı, herkes görür · Son konuşulan en üstte",
+  "version": "0.9.11",
+  "notes": "Okunmamış sayısı görev çubuğunda ve tepside · Hızlı mesajda okunmamışlar · Hızlı mesajdan Nesaj+'a geçiş",
   "whatsNew": {
-    "version": "0.9.10",
+    "version": "0.9.11",
     "items": [
       {
-        "icon": "💬",
-        "title": "Cevaplar artık sohbette",
-        "text": "Karttan ya da sohbetten verdiğiniz cevap, alıntısıyla ayrı bir balon olur; alıntıya tıklayınca asıl mesaja gidersiniz."
+        "icon": "🔢",
+        "title": "Okunmamış sayısı görev çubuğunda ve tepside",
+        "text": "Toplam okunmamış mesaj sayısı Nesaj+ simgesinin üstünde kırmızı rozet olarak görünür (1–9, sonra 9+); okuyunca kalkar."
       },
       {
-        "icon": "👥",
-        "title": "Grupta kim ne yaptı, herkes görür",
-        "text": "Her grup mesajının altında üye üye durum: iletildi, gördü, kapattı ya da verilen cevap."
+        "icon": "⚡",
+        "title": "Hızlı mesajda okunmamışlar",
+        "text": "Kişi ve grup listesinde okunmamış sayısı; okunmamışı olanlar en üstte. Tıklayınca mesajlar küçük bir sohbet olarak açılır, hızlı cevap düğmeleri ve cevap kutusuyla."
       },
       {
-        "icon": "🔝",
-        "title": "Son konuşulan en üstte",
-        "text": "Konuşma listesi son gelen ya da giden mesaja göre sıralanır."
+        "icon": "↗️",
+        "title": "Hızlı mesajdan Nesaj+'a geçiş",
+        "text": "Başlıktaki düğme hızlı mesajı kapatıp Nesaj+ penceresini açar; seçili kişi ya da grup orada açık gelir."
       },
       {
-        "icon": "🔔",
-        "title": "Cevaplar sakin gelir",
-        "text": "Cevap yazana küçük bildirimle gider; grubun geri kalanı yalnızca sohbette görür, duyuru cevabı yalnızca ekip sahibine."
+        "icon": "🧲",
+        "title": "Yüzen düğme her yere",
+        "text": "N düğmesi artık ekranın her yerine, başka monitöre de sürüklenebilir; yeri hatırlanır, ekran dışına taşmaz."
       },
       {
-        "icon": "✨",
-        "title": "Daha temiz kapanış",
-        "text": "Önemli kartı artık tek ve pürüzsüz şekilde kaybolur; güncelleme şeridi de sadeleşti."
+        "icon": "⚙️",
+        "title": "Grup paneli dişlinin arkasında",
+        "text": "Üyeler, üye ekleme, ad değiştirme ve silme artık grup adının yanındaki dişliden açılır; sohbet alanı tamamen mesajlara kaldı. Bekleyen katılma isteği varsa dişlide sayı."
       }
     ]
   },
-  "pub_date": "2026-10-07T13:11:07.043Z",
+  "pub_date": "2026-10-13T06:18:56.807Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQzhKZHFCcUUrZ2VxRS93bXFUTUliQnJxWnRaNmNDa2hEWCs2Y3Y2Uk52ZFhIakV5Q0JxYStNTWhXcUkzUVVsRjJiY3hXUThSbW5Sdm8zYnFyRDZETXFYbTRLSkJqekEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMzc4NjYxCWZpbGU6TmVzYWorXzAuOS4xMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC45LjEwCmRlL2E4Z2RYRk50TUUxVlBkUnplUGpzTmU2OW45ZVVpWks0S1RHbVZpNnV5bDBzdjBXNENOV2ZtYUhmSWIvRyt4M2c2NEM4cFpyZFhHQldoLzdSd0FBPT0K",
-      "url": "https://github.com/altintv-creator/nesaj-releases/releases/download/v0.9.10/Nesaj-0.9.10-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQzhKZHFCcUUrZ1JNeWUyQlRmWnRkVzg0UThqdlFoenRpOVhOdERqalZPdk80VHFFWE9xaXdIbGVXM2pDSUpqYUJvWi85ckt1QW9ETVpzR3EwUDhKVFZwV0pURVVkYlFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxODcyMzMwCWZpbGU6TmVzYWorXzAuOS4xMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC45LjExCjA5QjhhdHVhYm5rWjM4Ymc0ZmxwM2RnQTdtZ29xWWZWdzJPaCt2My9mdzVkN3RWSHBXNEZvRzNQMm9xSzJhRlFhQnNtMUdqQlkwUFVIazZQVlRrVkRRPT0K",
+      "url": "https://github.com/altintv-creator/nesaj-releases/releases/download/v0.9.11/Nesaj-0.9.11-setup.exe"
     }
   }
 }
